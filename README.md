@@ -492,6 +492,7 @@ INTRUDER ALERT!
 System enters permanent emergency lock state.
 
 ---
+# Project Screen Shot
 
 # 📚 Educational Value
 
