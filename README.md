@@ -492,7 +492,8 @@ INTRUDER ALERT!
 System enters permanent emergency lock state.
 
 ---
-# Project Screen Shot
+#  📸  Project Screen Shot
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d4601c34-861f-428a-ab5e-9d4fb9345d85" />
 
 # 📚 Educational Value
 
